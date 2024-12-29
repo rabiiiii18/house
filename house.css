@@ -26,37 +26,38 @@
 .tree1 {
     width: 1;
     height: 0;
-    border-left: 100px solid transparent;
-    border-right: 100px solid transparent;
-    border-bottom: 100px solid green;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 70px solid green;
 }.tree2 {
     width: 1;
     height: 0;
-    border-left: 100px solid transparent;
-    border-right: 100px solid transparent;
-    border-bottom: 100px solid green;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 70px solid green;
     position: relative;
     top: -25px;
 }.tree3 {
     width: 1;
     height: 0;
-    border-left: 100px solid transparent;
-    border-right: 100px solid transparent;
-    border-bottom: 100px solid green;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 70px solid green;
     position: relative;
     top: -50px;
 }
 .trunk{
     width: 20px;
-    height: 150px;
+    height: 120px;
     background-color: brown;
     position: relative;
     top: -50px;
-    left: 85px;
+    left: 60px;
   
 }
 .tree{
     margin-left: 10%;
+    
 }
 
 .square {
